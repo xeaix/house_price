@@ -6,7 +6,7 @@ This project centers around predicting house prices using regression models, spe
 
 ### Objective:
 
-The primary objective is to compare the performance of two regression models—Linear Regression and Random Forest—in predicting house prices. By training and evaluating both models on the same dataset, we aim to provide insights into their strengths and limitations for this specific prediction task.
+The primary objective is to compare the performance of two regression models—Linear Regression and Random Forest in predicting house prices. By training and evaluating both models on the same dataset, we aim to provide insights into their strengths and limitations for this specific prediction task.
 
 ### Key Features:
 
